@@ -2,9 +2,9 @@
  <img align="center" width="230" src="https://i.imgur.com/iHgtvmg.png" />
   <h2>Typescript Library Boilerplate Basic</h2>
   <blockquote>Minimal Library Starter Kit for your Typescript projects</blockquote>
- 
+
  <a href="https://github.com/hodgef/ts-library-boilerplate-basic/actions"><img alt="Build Status" src="https://github.com/hodgef/ts-library-boilerplate-basic/workflows/Build/badge.svg?color=green" /></a> <a href="https://github.com/hodgef/ts-library-boilerplate-basic/actions"> <img alt="Publish Status" src="https://github.com/hodgef/ts-library-boilerplate-basic/workflows/Publish/badge.svg?color=green" /></a> <img src="https://img.shields.io/david/hodgef/ts-library-boilerplate-basic.svg" /> <a href="https://david-dm.org/hodgef/ts-library-boilerplate-basic?type=dev"><img src="https://img.shields.io/david/dev/hodgef/ts-library-boilerplate-basic.svg" /></a> <img src="https://api.dependabot.com/badges/status?host=github&repo=hodgef/ts-library-boilerplate-basic" />
- 
+
 <strong>For a plain Javascript alternative, check out [js-library-boilerplate-basic](https://github.com/hodgef/js-library-boilerplate-basic).</strong>
 
 </div>
@@ -62,3 +62,5 @@ const libraryInstance = new MyLibrary();
 > Made a library using this starter kit? Share it here by [submitting a pull request](https://github.com/hodgef/ts-library-boilerplate-basic/pulls)!
 
 - [simple-keyboard@3.0.0](https://github.com/hodgef/simple-keyboard/tree/staging) - Javascript Virtual Keyboard
+
+scott
